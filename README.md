@@ -1,2 +1,7 @@
-# giant-component-cluster-analysis
-Supplementary material for cluster analysis of the giant component in a coauthorship network.
+# Giant Component Cluster Analysis – Supplementary Material
+
+This repository contains the supplementary material associated with the analysis of clusters extracted from the giant component of a coauthorship network.
+
+## Repository structure
+
+
